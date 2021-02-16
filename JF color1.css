@@ -1,0 +1,294 @@
+/* Main */
+.jf-c-1{color: #292929!important}
+.jf-c-2{color: #bde1f2!important}
+.jf-c-3{color: #1a9ad6!important}
+.jf-c-4{color: #f7f7f8!important}
+
+/* companies */
+.jf-c-fcb1{color:  #3b5998!important} /* facebook */
+.jf-c-fcb2{color: 	#8b9dc3!important} /* facebook */
+.jf-c-fcb3{color: 	#dfe3ee!important} /* facebook */
+.jf-c-twc{color: #6441a5!important} /* Twitch.tv */
+.jf-c-twt{color: #00acee!important} /* twitter */
+.jf-c-gler{color: #de5246!important} /* google */
+.jf-c-gleg{color: #1aa260!important} /* google */
+.jf-c-gleb{color: #4c8bf5!important} /* google */
+.jf-c-gley{color: #ffce44!important} /* google */
+.jf-c-blg{color: #fc4f08!important} /* blogger */
+.jf-c-ytb{color: #c4302b!important} /* youtube */
+.jf-c-adr{color: #a4c639!important} /* android */
+.jf-c-mscb{color: #00a2ed!important} /* microsoft */
+.jf-c-mscg{color:#7db700!important} /* microsoft */
+.jf-c-mscr{color: #f04e1f!important} /* microsoft */
+.jf-c-mscy{color: #fdb900!important} /* microsoft */
+.jf-c-msce{color: #0078d7!important} /* microsoft */
+.jf-c-igm1{color: #405DE6!important} /* instagram */
+.jf-c-igm2{color: #5851DB!important} /* instagram */
+.jf-c-igm3{color: #833AB4!important} /* instagram */
+.jf-c-igm4{color: #E1306C!important} /* instagram */
+.jf-c-igm5{color: #F77737!important} /* instagram */
+.jf-c-igm6{color: #FFDC80!important} /* instagram */
+.jf-c-gth{color: #171515!important} /* github */
+.jf-c-spf1{color: #1db954!important} /* Spotify */
+.jf-c-spf2{color: #191414!important} /* Spotify */
+.jf-c-pst{color: #c8232c!important} /* pinterest */
+.jf-c-tlg{color: #0088cc!important} /* Telegram */
+.jf-c-wsp{color: #25d366!important} /* whatsapp */
+.jf-c-wsp1{color: #128c7e!important} /* whatsapp */
+.jf-c-wspd{color: #075e54!important} /* whatsapp */
+.jf-c-wspb{color: #34b7f1!important} /* whatsapp */
+.jf-c-slcb{color: #6ecadc!important} /* slack */
+.jf-c-slco{color: #e9a820!important} /* slack */
+.jf-c-slcp{color: #e01563!important} /* slack */
+.jf-c-slcg{color: #3eb991!important} /* slack */
+.jf-c-sds{color: #0077b5!important} /* slide share */
+.jf-c-adb{color: #ff0000!important} /* adobe */
+.jf-c-abb{color: #ff6a00!important} /* alibaba */
+.jf-c-amzo{color: #ff9900!important} /* amazon */
+.jf-c-amzb{color: #146eb4!important} /* amazon */
+.jf-c-ppl1{color: #003087!important} /* paypal */
+.jf-c-ppl2{color: #009cde!important} /* paypal */
+.jf-c-ppl3{color: #012169!important} /* paypal */
+.jf-c-pml{color: #f05000!important} /* paymill */
+.jf-c-mtcr{color: #cc0000!important} /* master card */
+.jf-c-mtco{color: #ff9900!important} /* master card */
+.jf-c-mtcb{color: #000066!important} /* master card */
+.jf-c-bhc{color: #1769ff!important} /* Behance */
+.jf-c-bth{color: #373552!important} /* Bluetooth */
+.jf-c-aex1{color: #002663!important} /* Amerocan Express */
+.jf-c-aex2{color: #4d4f53!important} /* Amerocan Express */
+.jf-c-lkd1{color: #0077b5!important} /* linkedin */
+.jf-c-lkd2{color: #00a0dc!important} /* linkedin */
+.jf-c-lkd3{color: #e68523!important} /* linkedin */
+.jf-c-lkd4{color: #dd5143!important} /* linkedin */
+.jf-c-lkd5{color: #8d6cab!important} /* linkedin */
+.jf-c-lkd6{color: #313335!important} /* linkedin */
+.jf-c-lkd7{color: #000000!important} /* linkedin */
+.jf-c-lkd8{color: #86888a!important} /* linkedin */
+.jf-c-dsc{color: #7289da!important} /* discord */
+.jf-c-dsq{color: #2e9fff!important} /* disqus */
+.jf-c-dny1{color: #0af167!important} /* disney */
+.jf-c-dny2{color: #ee70a6!important} /* disney */
+.jf-c-dny3{color: #520099!important} /* disney */
+.jf-c-dny4{color: #39eafd!important} /* disney */
+.jf-c-dny5{color: #0d0735!important} /* disney */
+.jf-c-cdp1{color: #0ebeff!important} /* codepen */
+.jf-c-cdp2{color: #47cf73!important} /* codepen */
+.jf-c-cdp3{color: #ae63e4!important} /* codepen */
+.jf-c-cdp4{color: #fcd000!important} /* codepen */
+.jf-c-cdp5{color: #ff3c41!important} /* codepen */
+.jf-c-cdp6{color: #76daff!important} /* codepen */
+.jf-c-ccd{color: #f65a5b!important} /* codecademy */
+.jf-c-ccd1{color: #204056!important} /* codecademy */
+.jf-c-htm{color: #e34f26!important} /* HTML5 */
+.jf-c-css{color: #264de4!important} /* CSS3 */
+.jf-c-css1{color: #2965f1!important} /* CSS3 */
+.jf-c-jsc{color: #f7df1e!important} /* JavaScript */
+.jf-c-npm{color: #cb3837!important} /* NPM */
+.jf-c-ptr1{color: #f96854!important} /* Patreon */
+.jf-c-ptr2{color: #052d49!important} /* Patreon */
+.jf-c-dgg{color: #005be2!important} /* digg */
+.jf-c-drb{color: #ea4c89!important} /* dribbble */
+.jf-c-drb1{color: #444444!important} /* dribbble */
+.jf-c-drb2{color: #8aba56!important} /* dribbble */
+.jf-c-drb3{color: #ff8833!important} /* dribbble */
+.jf-c-drb4{color: #00b6e3!important} /* dribbble */
+.jf-c-dbx{color: #007ee5!important} /* dropbox */
+.jf-c-dbx1{color: #7b8994!important} /* dropbox */
+.jf-c-dbx2{color: #47525d!important} /* dropbox */
+.jf-c-dbx3{color: #3d464d!important} /* dropbox */
+.jf-c-eby{color: #f5af02!important} /* ebay */
+.jf-c-eby1{color: #e53238!important} /* ebay */
+.jf-c-eby2{color: #0064d2!important} /* ebay */
+.jf-c-eby3{color: #86b817!important} /* ebay */
+.jf-c-fexo{color: #ff6600!important} /* FedEx */
+.jf-c-fexp{color: #4d148c!important} /* FedEx */
+.jf-c-ghb{color: #4078c0!important} /* github */
+.jf-c-ghb5{color: #6cc644!important} /* github */
+.jf-c-ghb4{color: #bd2c00!important} /* github */
+.jf-c-ghb3{color: #c9510c!important} /* github */
+.jf-c-ghb2{color: #6e5494!important} /* github */
+.jf-c-ghb1{color: #333!important} /* github */
+.jf-c-imd{color: #f5de50!important} /* IMDb */
+.jf-c-yho{color: #410093!important} /* Yahoo */
+
+/* Random */
+.jf-c-bw1{color: #ecf0f1!important}
+.jf-c-bw2{color: #bdc3c7!important}
+.jf-c-bw3{color: #95a5a6!important}
+.jf-c-bw4{color: #7f8c8d!important}
+.jf-c-bw5{color: #1d1d1d!important}
+.jf-c-bw6{color: #647687!important}
+.jf-c-bw7{color: #8e8e93!important}
+.jf-c-bw8{color: #ceced2!important}
+.jf-c-bw9{color: #efeff4!important}
+.jf-c-bw10{color: #A09998!important}
+.jf-c-bwsg{color: #9b9b9b!important}
+.jf-c-bwsg1{color: #f4f4f4!important}
+.jf-c-bwsg2{color: #282828!important}
+
+.jf-c-b1{color: #0d6efd!important}
+.jf-c-b1p{color: #d7e7ff!important}
+.jf-c-b2{color: #090446!important}
+.jf-c-b2p{color: #dbd8fd!important}
+.jf-c-b3{color: #3F51B5!important}
+.jf-c-b3p{color: #e1e4f4!important}
+.jf-c-b4{color: #00bcd4!important}
+.jf-c-b4p{color: #d6faff!important}
+.jf-c-b5{color: #1e85ae!important}
+.jf-c-b5p{color: #dcf1f9!important}
+.jf-c-b6{color: #25a0d0!important}
+.jf-c-b6p{color: #cbeaf6!important}
+.jf-c-b7{color: #2c3e50!important}
+.jf-c-b7p{color: #D7E0EA!important}
+.jf-c-b8{color: #3498db!important}
+.jf-c-b9{color: #2980b9!important}
+.jf-c-b10{color: #2980b9!important}
+.jf-c-b11{color: #eff4ff!important}
+.jf-c-b12{color: #00aba9!important}
+.jf-c-b13{color: #1ba1e2!important}
+.jf-c-b14{color: #3e65ff!important}
+.jf-c-b15{color: #0050ef!important}
+.jf-c-b16{color: #5856d6!important}
+.jf-c-b17{color: #007AFF!important}
+.jf-c-b18{color: #34AADC!important}
+.jf-c-b19{color: #5AC8FA!important}
+.jf-c-b20{color: #9BB7D4!important}
+.jf-c-b21{color: #0072B5!important}
+.jf-c-b22{color: #34568B!important}
+.jf-c-b23{color: #798EA4!important}
+.jf-c-b24{color: #00758F!important}
+.jf-c-b25{color: #282D3C!important}
+.jf-c-b25p{color: #EDF1FF!important}
+.jf-c-bhw{color: #00477e!important}
+.jf-c-bsf{color: #0067a7!important}
+.jf-c-bsg{color: #154889!important}
+
+.jf-c-o1{color: #feb95f!important}
+.jf-c-o2{color: #feaf48!important}
+.jf-c-o3{color: #FEA634!important}
+.jf-c-o4{color: #FE9E20!important}
+.jf-c-o5{color: #FE950B!important}
+.jf-c-o6{color: #f39c12!important}
+.jf-c-o7{color: #e67e22!important}
+.jf-c-o8{color: #d35400!important}
+.jf-c-o8p{color: #ffdbc2!important}
+.jf-c-o9{color: #da532c!important}
+.jf-c-o10{color: #fa6800!important}
+.jf-c-o11{color: #f0a30a!important}
+.jf-c-o12{color: #825a2c!important}
+.jf-c-o13{color: #a0522d!important}
+.jf-c-o14{color: #ff9500!important}
+.jf-c-o15{color: #FDAC53!important}
+.jf-c-o16{color: #B55A30!important}
+.jf-c-o17{color: #FDAC53!important}
+.jf-c-o18{color: #FFA500!important}
+.jf-c-o19{color: #FA7A35!important}
+.jf-c-o20{color: #EDD59E!important}
+.jf-c-o21{color: #B89B72!important}
+.jf-c-o22{color: #DC793E!important}
+.jf-c-o23{color: #C48A69!important}
+.jf-c-ohw{color: #633517!important}
+.jf-c-ohw1{color: #ee9600!important}
+.jf-c-osf{color: #e97600!important}
+.jf-c-osg{color: #d4652f!important}
+.jf-c-osg1{color: #7b5141!important}
+
+.jf-c-y1{color: #f1c40f!important}
+.jf-c-y1p{color: #FCF1C5!important}
+.jf-c-y2{color: #87794e!important}
+.jf-c-y3{color: #e3c800!important}
+.jf-c-y4{color: #ffcc00!important}
+.jf-c-y5{color: #FFDB4C!important}
+.jf-c-y6{color: #FDE99C!important}
+.jf-c-y7{color: #D0AC20!important}
+.jf-c-y8{color: #DBC673!important}
+.jf-c-y9{color: #F5DF4D!important}
+.jf-c-y10{color: #E0B589!important}
+.jf-c-y11{color: #9A8B4F!important}
+.jf-c-y12{color: #9C4722!important}
+.jf-c-y13{color: #D9CE52!important}
+.jf-c-yhw{color: #e06000!important}
+.jf-c-yhw1{color: #ffab00!important}
+.jf-c-ysf{color: #f6c700!important}
+.jf-c-ysg{color: #f7ba0b!important}
+
+.jf-c-r1{color: #e74c3c!important}
+.jf-c-r2{color: #c0392b!important}
+.jf-c-r3{color: #ee1111!important}
+.jf-c-r4{color: #a20025!important}
+.jf-c-r5{color: #e51400!important}
+.jf-c-r6{color: #ff2d55!important}
+.jf-c-r7{color: #ff3b30!important}
+.jf-c-r8{color: #a20025!important}
+.jf-c-r9{color: #E9897E!important}
+.jf-c-r10{color: #D2386C!important}
+.jf-c-r11{color: #CD212A!important}
+.jf-c-r12{color: #E8A798!important}
+.jf-c-r12p{color: #FCDAD2!important}
+.jf-c-r13{color: #A2242F!important}
+.jf-c-r14{color: #D19C97!important}
+.jf-c-r15{color: #6A2E2A!important}
+.jf-c-r16{color: #E6AF91!important}
+.jf-c-rhw{color: #a6001a!important}
+.jf-c-rsf{color: #bd1e24!important}
+.jf-c-rsg{color: #a02128!important}
+
+.jf-c-p1{color: #9b59b6!important}
+.jf-c-p2{color: #8e44ad!important}
+.jf-c-p3{color: #ff0097!important}
+.jf-c-p4{color: #9f00a7!important}
+.jf-c-p5{color: #7e3878!important}
+.jf-c-p6{color: #603cba!important}
+.jf-c-p7{color: #6a00ff!important}
+.jf-c-p10{color: #aa00ff!important}
+.jf-c-p9{color: #f472d0!important}
+.jf-c-p8{color: #d80073!important}
+.jf-c-p9{color: #7e3878!important}
+.jf-c-p10{color: #76608a!important}
+.jf-c-p11{color: #926AA6!important}
+.jf-c-p11p{color: #DAC8E3!important}
+.jf-c-p12{color: #6B5876!important}
+.jf-c-p13{color: #6C244C!important}
+.jf-c-psf{color: #964f8e!important}
+.jf-c-psg{color: #904684!important}
+
+.jf-c-g1{color: #1abc9c!important}
+.jf-c-g1p{color: #C9F8EE!important}
+.jf-c-g2{color: #2ecc71!important}
+.jf-c-g2p{color: #CDF4DD!important}
+.jf-c-g3{color: #16a085!important}
+.jf-c-g3p{color: #C9F8EE!important}
+.jf-c-g4{color: #27ae60!important}
+.jf-c-g4p{color: #DEF8E8!important}
+.jf-c-g4p1{color: #BCF1D0!important}
+.jf-c-g5{color: #99b433!important}
+.jf-c-g6{color: #00a300!important}
+.jf-c-g7{color: #1e7145!important}
+.jf-c-g8{color: #00aba9!important}
+.jf-c-g9{color: #a4c400!important}
+.jf-c-g10{color: #60a917!important}
+.jf-c-g11{color: #008a00!important}
+.jf-c-g12{color: #6d8764!important}
+.jf-c-g13{color: #4cd964!important}
+.jf-c-g14{color: #A0DAA9!important}
+.jf-c-g15{color: #00A170!important}
+.jf-c-g16{color: #56C6A9!important}
+.jf-c-g17{color: #4B5335!important}
+.jf-c-g18{color: #006B54!important}
+.jf-c-ghw{color: #004d33!important}
+.jf-c-gsf{color: #007256!important}
+.jf-c-gsg{color: #317f43!important}
+
+
+/* via
+https://encycolorpedia.id/ 
+https://brandcolors.net/
+
+
+
+*/
+
+
+.jf-selectall{user-select: all;}
+.jf-noselect{user-select: none;}
