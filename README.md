@@ -12,3 +12,5 @@ Julfifteen is a custom framework made for who don't understand css, javascript, 
 ### apa itu julfifteen?
 
 Julfifteen adalah sebuah sebuah kastem framework yang diperuntukkan bagi siapapun yang masih belum menguasai `CSS` `HTML` dan `Javascript` tapi sangat memerlukan itu untuk keperluan pengembangan blogspot. Semoga framework ini bermanfaat buat kalian yak
+
+Bagi kalian yang mau pake Font Awesome 5 Pro, silakan copy cdn di bawah:
