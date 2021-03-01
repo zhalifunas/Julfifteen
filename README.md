@@ -1,4 +1,8 @@
 # Julfifteen
+> MIT Licensed  
+
+[![GitHub version](https://badge.fury.io/gh/zhalifunas%2FJulfifteen.svg)](https://badge.fury.io/gh/zhalifunas%2FJulfifteen)  
+
 [EN]
 
 # Welcome to Julfifteen
