@@ -1,4 +1,4 @@
-# FONT AWESOME PRO  
+# **FONT AWESOME PRO**  
 
 [en]  
 to use this icons set, please copy link tag below and paste it in head tag (after `meta` tag)  
